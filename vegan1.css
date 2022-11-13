@@ -1,6 +1,10 @@
 body{
     margin: 0%;
 }
+.row {
+    margin-right: 0 !important;
+    overflow-x: hidden;
+}
 #top{
     float: right;
     padding-right: 3vw;
